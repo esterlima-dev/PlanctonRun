@@ -38,3 +38,9 @@ cd plancton-run
 ⬆ Pressione a tecla "space" para fazer o plâncton subir.
 
 🚧 Evite os obstáculos e tente coletar o maior número de ingredientes para fazer o hambúrguer.
+
+📌 Aprendizados e Desafios
+
+Este projeto foi meu primeiro projeto, uma oportunidade para aprimorar minhas habilidades em Java, programação orientada a objetos, 
+manipulação gráfica com Swing e AWT, além de conceitos de eventos e colisões em jogos 2D. Um dos maiores desafios 
+foi a implementação da física do jogo para tornar a jogabilidade fluida e responsiva.
