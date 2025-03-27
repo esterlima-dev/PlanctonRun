@@ -1,2 +1,40 @@
-# PlanctonRun
-Plancton Run é um jogo desenvolvido em Java usando a biblioteca Swing e AWT, inspirado no clássico Flappy Bird. O jogador controla o Plâncton, desviando de algas enquanto coleta ingredientes para um hambúrguer.
+🐠 Plancton Run
+
+Plancton Run é um jogo desenvolvido em Java usando Swing e AWT, inspirado no clássico Flappy Bird. O jogador controla um plâncton, desviando de algas enquanto coleta ingredientes para montar um hambúrguer.
+
+🚀 Tecnologias Usadas
+✔ Java
+✔ Swing
+✔ AWT
+
+🛠 Como Executar
+
+1️⃣ Clone este repositório:
+
+git clone https://github.com/seu-usuario/plancton-run.git
+
+2️⃣ Navegue até a pasta do projeto:
+
+cd plancton-run
+
+3️⃣ Abra o arquivo PlanctonRun.java no seu IDE ou editor de código.
+
+4️⃣ Compile e execute o projeto. O jogo será aberto em uma janela gráfica.
+
+🎮 Funcionalidades
+
+🎯 Controles: Use as teclas do teclado para controlar o movimento do plâncton.
+
+🍔 Objetivo: Desviar de algas e coletar ingredientes para montar um hambúrguer.
+
+🏆 Pontuação: Acumule o máximo de pontos possível enquanto evita obstáculos.
+
+🔧 Requisitos
+
+✅ Java 8 ou superior instalado no seu computador.
+
+🎮 Como Jogar
+
+⬆ Pressione a tecla "space" para fazer o plâncton subir.
+
+🚧 Evite os obstáculos e tente coletar o maior número de ingredientes para fazer o hambúrguer.
